@@ -1,0 +1,15 @@
+body{
+ background-color: black;
+  color: white;
+  text-align: center;
+  font-family: monospace;
+}
+
+.star {
+  font-size: 40px;
+  border-radius: 50%;
+}
+
+.star:focus {
+  text-shadow: 5px 5px 10px #fff762;
+}
